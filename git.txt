@@ -1,1 +1,0 @@
-Hello for Poll SCM build
